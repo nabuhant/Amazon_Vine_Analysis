@@ -24,6 +24,6 @@ Below is the output of the analysis:
 ![image1](Results/D2_Results.png)
 
 
-#Summary
+# Summary
 Based on the results when comparin Vine and non-Vine reviwes, it can be concluded that a positivity bias is not present in the Vine program where 45% of Vine reviews were 5-stars while 52% of non-Vine reviews were 5-star. This trend may have occurred due to the smaller sample size of Vine users that is around 93 times smaller than non-Vine users.  
 In this analysis we looked at 5-star ratings. In the future it may be useful to look at lower ratings and compare Vine and non-Vine reviews to determine if Vine reviews results in users being more critical as a results of bein paid.
